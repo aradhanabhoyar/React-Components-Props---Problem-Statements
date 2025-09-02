@@ -1,12 +1,46 @@
-# React + Vite
+1.User Profile Card
+name : Rohit Mehta
+email : rohit.mehta@example.com
+role : Admin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Product Details
+productName : Bluetooth HeadPhones
+price : 2499
+inStock : true
 
-Currently, two official plugins are available:
+3. Greeting Components
+name : Sneha
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Blog Post Component
+title : Getting Started with React
+author : Kunal Verma
+content : React is a javascript library for building user.
 
-## Expanding the ESLint configuration
+5.Student MArks Component
+name : Aditi Sharma
+rollNo : STU102
+marks : 35
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+6. Employee Salary Component
+name : Rajesh Kumr
+department : Finance
+salary :55000
+
+7. Movie Component with Nested Props
+title : 3 Idiots
+director : RajKumar Hirani
+age : 60
+
+8. Shopping Card Item Component
+item : Laptop
+quantity : 2
+price : 45000
+
+9. Course Component with Array Props
+courseName : Full Stack Development
+modules : HTMLCSSJAvaScriptReactNode.js
+
+10. Weather Report Component
+city : Delhi
+temperature : 28
+condition : Sunny
